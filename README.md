@@ -20,6 +20,10 @@
 > java Client
 ````
 
+## Output
+
+![](OutputZKPSS.png)
+
 ## Modifications in Key Generation, Power Calculations and Hashing used
 * Here we assign the keys and random selected value purely at random compared to the original algorithm. 
 * Binary Exponentiation is used to calculate the powers of the number in log time.
