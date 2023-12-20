@@ -10,7 +10,7 @@
 * Compile the java program via the command:
 ````
 > javac Client.java
-> javac Server.javac
+> javac Server.java
 ````
 * In two different terminals on the same directory run Server first and then the Client file using the commands:
 ````
