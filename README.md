@@ -28,7 +28,7 @@
 * Here we assign the keys and random selected value purely at random compared to the original algorithm. 
 * Binary Exponentiation is used to calculate the powers of the number in log time.
 * String Hashing is done via polynomial rolling hash function.
-* We find 'x' here in server and calculate 'rv' via power arithemetic as some computations might overflow for any data type assigned via the original method.
+* We find 'x' here in server and calculate 'rv' via power arithmetic as some computations might overflow for any data type assigned via the original method.
 
 ## References
 * [Understanding the Protocol](https://en.wikipedia.org/wiki/Schnorr_signature)
