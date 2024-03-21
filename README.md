@@ -1,6 +1,6 @@
-# Zero Knowledge Protocol: Schnorr Digital Signature
+# ZKP: Schnorr Digital Signature
 
-#### This is an implementation of the ZKP: Schnorr Digital Signature for Message verification in a Client - Server simulation using Java. The following is the flowchart of the protocol (How I understood it) and is very similar to the idea of ZKP: Fiat Shamir but additionally we use Hashing here.
+#### This is an implementation of the Zero Knowledge Proof: Schnorr Digital Signature for Message verification in a Client - Server simulation using Java. The following is the flowchart of the protocol (How I understood it) and is very similar to the idea of ZKP: Fiat Shamir but additionally we use Hashing here.
 
 ![](ZKPSS.png)
 
